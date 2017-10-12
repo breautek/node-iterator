@@ -1,0 +1,22 @@
+{
+  "name": "@breautek/iterator",
+  "version": "0.0.1",
+  "description": "Simplistic iterator API for collection-like objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breautek/node-iterator.git"
+  },
+  "keywords": [
+    "iterator"
+  ],
+  "author": "norman@normanbreau.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/breautek/node-iterator/issues"
+  },
+  "homepage": "https://github.com/breautek/node-iterator#readme"
+}
